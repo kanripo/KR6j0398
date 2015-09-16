@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五字陀羅尼頌
+#+DATE: 2015-08-30 20:31:39.246647
+#+PROPERTY: JUAN 0
